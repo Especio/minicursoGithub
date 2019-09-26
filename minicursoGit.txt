@@ -1,0 +1,8 @@
+Cria uma pasta .git oculta. que salva seu historico de versões
+
+Commit -> salva seu codigo na versão que esta ate o momento *
+
+
+git commit -a
+
+untracked
